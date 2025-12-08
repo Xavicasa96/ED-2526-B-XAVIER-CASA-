@@ -1,0 +1,15 @@
+/Users/macbook/Documents/ED-2526/SEMANA2/ejercicio/bin/Debug/net10.0/ejercicio
+/Users/macbook/Documents/ED-2526/SEMANA2/ejercicio/bin/Debug/net10.0/ejercicio.deps.json
+/Users/macbook/Documents/ED-2526/SEMANA2/ejercicio/bin/Debug/net10.0/ejercicio.runtimeconfig.json
+/Users/macbook/Documents/ED-2526/SEMANA2/ejercicio/bin/Debug/net10.0/ejercicio.dll
+/Users/macbook/Documents/ED-2526/SEMANA2/ejercicio/bin/Debug/net10.0/ejercicio.pdb
+/Users/macbook/Documents/ED-2526/SEMANA2/ejercicio/obj/Debug/net10.0/ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Documents/ED-2526/SEMANA2/ejercicio/obj/Debug/net10.0/ejercicio.AssemblyInfoInputs.cache
+/Users/macbook/Documents/ED-2526/SEMANA2/ejercicio/obj/Debug/net10.0/ejercicio.AssemblyInfo.cs
+/Users/macbook/Documents/ED-2526/SEMANA2/ejercicio/obj/Debug/net10.0/ejercicio.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/ED-2526/SEMANA2/ejercicio/obj/Debug/net10.0/ejercicio.sourcelink.json
+/Users/macbook/Documents/ED-2526/SEMANA2/ejercicio/obj/Debug/net10.0/ejercicio.dll
+/Users/macbook/Documents/ED-2526/SEMANA2/ejercicio/obj/Debug/net10.0/refint/ejercicio.dll
+/Users/macbook/Documents/ED-2526/SEMANA2/ejercicio/obj/Debug/net10.0/ejercicio.pdb
+/Users/macbook/Documents/ED-2526/SEMANA2/ejercicio/obj/Debug/net10.0/ejercicio.genruntimeconfig.cache
+/Users/macbook/Documents/ED-2526/SEMANA2/ejercicio/obj/Debug/net10.0/ref/ejercicio.dll

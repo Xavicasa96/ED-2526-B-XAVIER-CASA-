@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <!-- Salida tipo ejecutable -->
+    <OutputType>Exe</OutputType>
+
+    <!-- Framework objetivo; si tienes .NET 8, usa net8.0 -->
+    <TargetFramework>net8.0</TargetFramework>
+
+    <!-- Habilitar using implícitos (opcional) -->
+    <ImplicitUsings>enable</ImplicitUsings>
+
+    <!-- Habilitar Nullable (opcional) -->
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
+
