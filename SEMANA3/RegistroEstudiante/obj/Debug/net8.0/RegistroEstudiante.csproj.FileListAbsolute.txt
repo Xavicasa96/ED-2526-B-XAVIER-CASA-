@@ -1,0 +1,15 @@
+/Users/macbook/Documents/ED-2526/SEMANA3/RegistroEstudiante/bin/Debug/net8.0/RegistroEstudiante
+/Users/macbook/Documents/ED-2526/SEMANA3/RegistroEstudiante/bin/Debug/net8.0/RegistroEstudiante.deps.json
+/Users/macbook/Documents/ED-2526/SEMANA3/RegistroEstudiante/bin/Debug/net8.0/RegistroEstudiante.runtimeconfig.json
+/Users/macbook/Documents/ED-2526/SEMANA3/RegistroEstudiante/bin/Debug/net8.0/RegistroEstudiante.dll
+/Users/macbook/Documents/ED-2526/SEMANA3/RegistroEstudiante/bin/Debug/net8.0/RegistroEstudiante.pdb
+/Users/macbook/Documents/ED-2526/SEMANA3/RegistroEstudiante/obj/Debug/net8.0/RegistroEstudiante.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Documents/ED-2526/SEMANA3/RegistroEstudiante/obj/Debug/net8.0/RegistroEstudiante.AssemblyInfoInputs.cache
+/Users/macbook/Documents/ED-2526/SEMANA3/RegistroEstudiante/obj/Debug/net8.0/RegistroEstudiante.AssemblyInfo.cs
+/Users/macbook/Documents/ED-2526/SEMANA3/RegistroEstudiante/obj/Debug/net8.0/RegistroEstudiante.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/ED-2526/SEMANA3/RegistroEstudiante/obj/Debug/net8.0/RegistroEstudiante.sourcelink.json
+/Users/macbook/Documents/ED-2526/SEMANA3/RegistroEstudiante/obj/Debug/net8.0/RegistroEstudiante.dll
+/Users/macbook/Documents/ED-2526/SEMANA3/RegistroEstudiante/obj/Debug/net8.0/refint/RegistroEstudiante.dll
+/Users/macbook/Documents/ED-2526/SEMANA3/RegistroEstudiante/obj/Debug/net8.0/RegistroEstudiante.pdb
+/Users/macbook/Documents/ED-2526/SEMANA3/RegistroEstudiante/obj/Debug/net8.0/RegistroEstudiante.genruntimeconfig.cache
+/Users/macbook/Documents/ED-2526/SEMANA3/RegistroEstudiante/obj/Debug/net8.0/ref/RegistroEstudiante.dll
