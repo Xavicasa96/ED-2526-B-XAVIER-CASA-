@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/macbook/Documents/ED-2526/SEMANA2/ejercicio/ejercicio.csproj",
+      "projectUniqueName": "/Users/macbook/Documents/ED-2526-B-XAVIER-CASA-/SEMANA2/ejercicio/ejercicio.csproj",
       "projectName": "ejercicio",
-      "projectPath": "/Users/macbook/Documents/ED-2526/SEMANA2/ejercicio/ejercicio.csproj",
+      "projectPath": "/Users/macbook/Documents/ED-2526-B-XAVIER-CASA-/SEMANA2/ejercicio/ejercicio.csproj",
       "packagesPath": "/Users/macbook/.nuget/packages/",
-      "outputPath": "/Users/macbook/Documents/ED-2526/SEMANA2/ejercicio/obj/",
+      "outputPath": "/Users/macbook/Documents/ED-2526-B-XAVIER-CASA-/SEMANA2/ejercicio/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/macbook/.nuget/NuGet/NuGet.Config"
@@ -43,8 +43,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "10.0.100"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -65,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.416/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
