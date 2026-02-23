@@ -1,0 +1,15 @@
+/Users/macbook/Documents/ED-2526-B-XAVIER-CASA-/SEMANA10/bin/Debug/net8.0/SEMANA10
+/Users/macbook/Documents/ED-2526-B-XAVIER-CASA-/SEMANA10/bin/Debug/net8.0/SEMANA10.deps.json
+/Users/macbook/Documents/ED-2526-B-XAVIER-CASA-/SEMANA10/bin/Debug/net8.0/SEMANA10.runtimeconfig.json
+/Users/macbook/Documents/ED-2526-B-XAVIER-CASA-/SEMANA10/bin/Debug/net8.0/SEMANA10.dll
+/Users/macbook/Documents/ED-2526-B-XAVIER-CASA-/SEMANA10/bin/Debug/net8.0/SEMANA10.pdb
+/Users/macbook/Documents/ED-2526-B-XAVIER-CASA-/SEMANA10/obj/Debug/net8.0/SEMANA10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Documents/ED-2526-B-XAVIER-CASA-/SEMANA10/obj/Debug/net8.0/SEMANA10.AssemblyInfoInputs.cache
+/Users/macbook/Documents/ED-2526-B-XAVIER-CASA-/SEMANA10/obj/Debug/net8.0/SEMANA10.AssemblyInfo.cs
+/Users/macbook/Documents/ED-2526-B-XAVIER-CASA-/SEMANA10/obj/Debug/net8.0/SEMANA10.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/ED-2526-B-XAVIER-CASA-/SEMANA10/obj/Debug/net8.0/SEMANA10.sourcelink.json
+/Users/macbook/Documents/ED-2526-B-XAVIER-CASA-/SEMANA10/obj/Debug/net8.0/SEMANA10.dll
+/Users/macbook/Documents/ED-2526-B-XAVIER-CASA-/SEMANA10/obj/Debug/net8.0/refint/SEMANA10.dll
+/Users/macbook/Documents/ED-2526-B-XAVIER-CASA-/SEMANA10/obj/Debug/net8.0/SEMANA10.pdb
+/Users/macbook/Documents/ED-2526-B-XAVIER-CASA-/SEMANA10/obj/Debug/net8.0/SEMANA10.genruntimeconfig.cache
+/Users/macbook/Documents/ED-2526-B-XAVIER-CASA-/SEMANA10/obj/Debug/net8.0/ref/SEMANA10.dll
